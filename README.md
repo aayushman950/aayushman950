@@ -1,7 +1,7 @@
 ## ✨ About Me  
 
-🎓 Final-year Computer Engineering student at **Kathmandu University**  
-💻 Passionate **Full Stack Web Developer** and **Flutter Developer**, creating clean and modern apps
+🎓 Final-year Computer Engineering student at **Kathmandu University**<br/>
+💻 Passionate **Full Stack Web Developer** and **Flutter Developer**, creating clean and modern apps <br/>
 🤖 Enthusiastic about **AI/ML research** — exploring GANs, LLMs, and intelligent applications 
 
 
